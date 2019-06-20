@@ -3,7 +3,7 @@ library(RMySQL)
 library(DBI)
 library(pool)
 
-host1 <-"192.168.35.119" #村長那台電腦的IP
+host1 <-"192.168.35.119" 
 port1 <- 3306
 dbname1 <- "dcard_db"
 user1 <- "derek"
